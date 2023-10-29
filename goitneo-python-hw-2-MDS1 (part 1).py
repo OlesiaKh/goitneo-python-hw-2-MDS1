@@ -1,6 +1,3 @@
-# HW2/part1
-
-
 USERS = {}
  
  
